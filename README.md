@@ -27,8 +27,6 @@ This project implements an **advanced movie recommendation system** using **Sing
 - ✅ **User-mean centering**: Personalized rating normalization
 - ✅ **Latent space visualization**: PCA-projected movie factors by decade
 
-Developed as **Assignment 4** for **CSC5356 Data Engineering** at **Al Akhawayn University**, Master of Science in Big Data Analytics program.
-
 ---
 
 ## 🌟 Key Features
